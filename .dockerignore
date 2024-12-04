@@ -1,0 +1,15 @@
+# Ignoruj pliki generowane przez IDE i system operacyjny
+**/.DS_Store
+**/.classpath
+**/.idea
+**/.project
+**/.settings
+**/.vscode
+**/.gradle
+**/build
+**/dist
+**/target
+
+# Wskazówki ogólne
+**/Dockerfile*
+**/docker-compose*
